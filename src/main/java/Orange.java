@@ -1,5 +1,7 @@
-public class Orange extends Fruit{
-    public Orange(String name, float weight) {
-        super(name, weight);
+public class Orange extends Fruit {
+    public Orange() {
+        super(1.5f);
     }
+
+
 }
